@@ -1,2 +1,2 @@
-# SistemaDeAulasVirtuales
-Laboratorio final de Programación avanzada, en este proyecto se uso c++ orientado a objetos.
+# PAv_Lab6
+Laboratorio final de Programacion Avanzada 2021
